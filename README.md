@@ -1,3 +1,3 @@
 ## - Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,arduino,git,laravel,mysql,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/icons?i=js,html,css,php,codeigniter,arduino,git,laravel,mysql,vscode,wordpress)](https://skillicons.dev)
